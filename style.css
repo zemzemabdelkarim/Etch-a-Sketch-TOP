@@ -21,9 +21,18 @@ header{
     justify-content: center;
 }
 
+button{
+    padding: 10px;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+
+/*
 .item{
-    background-color: rgb(190, 190, 190);
+    background-color: rgb(215, 215, 215);
     width: calc(100% * (1/16)  );
-    /*height: 50px;*/
+    /*height: 50px;
     aspect-ratio: 1 / 1;
 }
+*/
