@@ -21,6 +21,13 @@ header{
     justify-content: center;
 }
 
+.buttonContainer{
+    padding: 50px 150px;
+    align-self: stretch;
+    display: flex;
+    justify-content: space-around;
+}
+
 button{
     padding: 10px;
     font-size: 1.5rem;
